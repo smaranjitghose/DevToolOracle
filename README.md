@@ -1,6 +1,6 @@
 # 🔮 DevToolOracle
 
-[![Python 3.13+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.13+](https://img.shields.io/badge/Python-3.13+-blue.svg)](https://www.python.org/downloads/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Stateful%20Agents-purple.svg)](https://github.com/langchain-ai/langgraph)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-green.svg)](https://openai.com/)
 [![Firecrawl](https://img.shields.io/badge/Firecrawl-Web%20Scraping-orange.svg)](https://firecrawl.dev/)
@@ -139,7 +139,7 @@ Contributions are welcome! Here's how:
 1. Fork the repository
 2. Create a feature branch
 ```
-git checkout -b feature/amazing-feature
+git switch -c feature/amazing-feature
 ```
 3. Commit and push your changes
 ```
