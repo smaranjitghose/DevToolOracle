@@ -1,0 +1,13 @@
+[project]
+name = "DevToolOracle"
+version = "0.0.1"
+description = "An AI agent that helps you discover and compare developer tools based on your query."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "firecrawl-py>=2.8.0",
+    "langchain-openai>=0.3.23",
+    "langgraph>=0.4.8",
+    "pydantic>=2.11.7",
+    "python-dotenv>=1.1.0",
+]
